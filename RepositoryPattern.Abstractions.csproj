@@ -18,9 +18,9 @@
 		<SignAssembly>false</SignAssembly>
 		<Nullable>enable</Nullable>
 		<LangVersion>8.0</LangVersion>
-		<RepositoryUrl>https://github.com/gliesefire/Repository-UoW-Pattern</RepositoryUrl>
+		<RepositoryUrl>https://github.com/gliesefire/RepositoryPattern.Abstractions</RepositoryUrl>
 		<RepositoryType></RepositoryType>
-		<PackageProjectUrl>https://github.com/gliesefire/Repository-UoW-Pattern</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/gliesefire/RepositoryPattern.Abstractions</PackageProjectUrl>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 		<PackageReleaseNotes>Keep Unit of Work definition simple</PackageReleaseNotes>
