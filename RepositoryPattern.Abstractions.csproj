@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<PackageId>RepositoryPattern.Abstractions</PackageId>
+		<Authors>Gliesefire</Authors>
+		<Company>Gliesefire</Company>
+		<Product>RepositoryPattern.Abstractions</Product>
+		<Description>Connection factory definitions to support the Repository Pattern &amp; Unit of Work. (Can be used outside of that context too)</Description>
+		<Copyright></Copyright>
+		<AssemblyVersion>2.2.0.0</AssemblyVersion>
+		<FileVersion>2.2.0.0</FileVersion>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<PackageTags>UnitOfWork,ConnectionFactory,RepositoryPattern</PackageTags>
+		<Version>2.2.0</Version>
+		<PackageLicenseFile></PackageLicenseFile>
+		<SignAssembly>false</SignAssembly>
+		<Nullable>enable</Nullable>
+		<LangVersion>8.0</LangVersion>
+		<RepositoryUrl>https://github.com/gliesefire/Repository-UoW-Pattern</RepositoryUrl>
+		<RepositoryType></RepositoryType>
+		<PackageProjectUrl>https://github.com/gliesefire/Repository-UoW-Pattern</PackageProjectUrl>
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<PackageReleaseNotes>Keep Unit of Work definition simple</PackageReleaseNotes>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+</Project>
