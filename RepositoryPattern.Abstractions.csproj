@@ -8,12 +8,12 @@
 		<Product>RepositoryPattern.Abstractions</Product>
 		<Description>Connection factory definitions to support the Repository Pattern &amp; Unit of Work. (Can be used outside of that context too)</Description>
 		<Copyright></Copyright>
-		<AssemblyVersion>2.2.0.0</AssemblyVersion>
-		<FileVersion>2.2.0.0</FileVersion>
+		<AssemblyVersion>2.3.0.0</AssemblyVersion>
+		<FileVersion>2.3.0.0</FileVersion>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 		<PackageTags>UnitOfWork,ConnectionFactory,RepositoryPattern</PackageTags>
-		<Version>2.2.0</Version>
+		<Version>2.3.0</Version>
 		<PackageLicenseFile></PackageLicenseFile>
 		<SignAssembly>false</SignAssembly>
 		<Nullable>enable</Nullable>
@@ -23,7 +23,7 @@
 		<PackageProjectUrl>https://github.com/gliesefire/RepositoryPattern.Abstractions</PackageProjectUrl>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
-		<PackageReleaseNotes>Keep Unit of Work definition simple</PackageReleaseNotes>
+		<PackageReleaseNotes>Add IDisposable to UnitoWork contract</PackageReleaseNotes>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	</PropertyGroup>
 </Project>
